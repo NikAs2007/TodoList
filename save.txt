@@ -1,0 +1,14 @@
+Sum of Two Numbers
+Write a program that takes two integers and outputs their sum. The program should correctly handle both positive and negative numbers. Ensure the output follows the format a + b = sum.
+Even or Odd Check
+Write code that checks if a user-input number is even. Print Even if true and Odd otherwise. Consider that the number could be zero.
+Factorial of a Number
+Create a program that calculates the factorial of a given non-negative integer. Implement the solution using a loop. Remember that the factorial of 0 is 1.
+Sum of Array Elements
+The program should calculate the sum of all elements in an integer array. The array can be hardcoded or user-input. Ensure the solution works with arrays of different lengths.
+Substring Search
+Write a program that searches for an input substring in a given string. Print the position of the first occurrence or a message if the substring is not found. The solution should be case-insensitive.
+Simple Calculator
+Create a basic calculator supporting +, -, *, / operations. The program should take two numbers and an operator, then output the result. Handle division by zero and invalid operators.
+Fibonacci Sequence
+Write a program that prints the first N Fibonacci numbers. The number N is user-input. Implement the solution using a loop, avoiding recursion for optimization.

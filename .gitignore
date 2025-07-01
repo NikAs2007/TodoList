@@ -1,0 +1,10 @@
+bin/
+build/
+*.o
+*.out
+
+.vs/
+.idea/
+*.sln
+*.vcxproj
+*.user
